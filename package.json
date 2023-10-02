@@ -1,0 +1,17 @@
+{
+  "name": "to-read",
+  "version": "1.0.0",
+  "description": "Projeto Read List",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./core/read",
+    "dev": "nodemon ./core/read"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
